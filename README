@@ -1,10 +1,9 @@
+This repository tracks my changes and customizations. My working copy of dwm is on the main branch.
+Upstream changes from git.suckless.org/dwm are pulled in and merged.
+
 dwm - dynamic window manager
 ============================
 dwm is an extremely fast, small, and dynamic window manager for X.
-
-This repository tracks the customizations which are used on my freebsd
-home system.
-
 
 Requirements
 ------------
