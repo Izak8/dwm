@@ -2,6 +2,9 @@ dwm - dynamic window manager
 ============================
 dwm is an extremely fast, small, and dynamic window manager for X.
 
+This repository tracks the customizations which are used on my freebsd
+home system.
+
 
 Requirements
 ------------
